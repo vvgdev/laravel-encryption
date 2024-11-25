@@ -5,7 +5,7 @@
  *
  */
 
-namespace PHPCodersNp\DBEncryption\Builders;
+namespace vvgdev\DBEncryption\Builders;
 
 use Illuminate\Database\Eloquent\Builder;
 use RuntimeException;

@@ -3,10 +3,10 @@
  * src/Traits/EncryptedAttribute.php.
  *
  */
-namespace PHPCodersNp\DBEncryption\Traits;
+namespace vvgdev\DBEncryption\Traits;
 
-use PHPCodersNp\DBEncryption\Builders\EncryptionEloquentBuilder;
-use PHPCodersNp\DBEncryption\Encrypter;
+use vvgdev\DBEncryption\Builders\EncryptionEloquentBuilder;
+use vvgdev\DBEncryption\Encrypter;
 
 trait EncryptedAttribute {
 

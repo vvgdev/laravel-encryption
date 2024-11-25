@@ -3,7 +3,7 @@
  * src/Commands/DecryptModel.php.
  *
  */
-namespace PHPCodersNp\DBEncryption\Console\Commands;
+namespace vvgdev\DBEncryption\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Database\Eloquent\Model;

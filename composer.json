@@ -1,25 +1,25 @@
 {
-  "name": "phpcodersnp/laravel-database-encryption",
+  "name": "vvgdev/laravel-database-encryption",
   "description": "Auto Encrypt and Decrypt Database through Eloquent",
   "type": "library",
   "license": "MIT",
   "version": "1.0",
   "authors": [
     {
-      "name": "PHPCodersNp",
-      "email": "phpcodersnp@gmail.com"
+      "name": "vvgdev",
+      "email": "dev@vvgtruck.com"
     }
   ],
   "require": {},
   "autoload": {
     "psr-4": {
-      "PHPCodersNp\\DBEncryption\\": "src"
+      "vvgdev\\DBEncryption\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-        "PHPCodersNp\\DBEncryption\\Tests\\": "tests",
-        "PHPCodersNp\\DBEncryption\\Tests\\Database\\Factories\\": "tests/database/factories"
+        "vvgdev\\DBEncryption\\Tests\\": "tests",
+        "vvgdev\\DBEncryption\\Tests\\Database\\Factories\\": "tests/database/factories"
     }
   },
   "require-dev": {
@@ -29,7 +29,7 @@
   "extra": {
     "laravel": {
         "providers": [
-            "PHPCodersNp\\DBEncryption\\Providers\\DBEncryptionServiceProvider"
+            "vvgdev\\DBEncryption\\Providers\\DBEncryptionServiceProvider"
         ]
     }
   },

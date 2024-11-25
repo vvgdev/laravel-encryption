@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPCodersNp\DBEncryption;
+namespace vvgdev\DBEncryption;
 
 use Illuminate\Support\Facades\Log;
 use RuntimeException;
